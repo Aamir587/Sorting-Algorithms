@@ -1,7 +1,6 @@
 package sorting.algo;
 
 public class InsertionSort {
-
 	// method to perform insertion sort.
 	public void insertionSort(int arr[] , int n)
 	{
